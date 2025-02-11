@@ -18,6 +18,18 @@ Here are some ideas to get you started:
 <a href="">
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draconnato&hide_progress=true&theme=gruvbox" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api?username=draconnato&hide=contribs,stars&show_icons=true&rank_icon=github&theme=gruvbox&custom_title=GitHub%20progress" />
+</a>
+
+## Suggested projects
+
+<a href="">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=draconnato&repo=formula-flow&theme=gruvbox" />
+</a>
+<a href="">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=draconnato&repo=book-club-scrape&theme=gruvbox" />
+</a>
+<a href="">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=draconnato&repo=lol-tracker&theme=gruvbox" />
 </a>
