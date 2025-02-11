@@ -25,14 +25,16 @@ Here are some ideas to get you started:
 ## Suggested projects
 
 <a href="">
-  <img height=65 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=draconnato&repo=formula-flow&theme=gruvbox" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=draconnato&repo=formula-flow&theme=gruvbox" />
 </a>
 <a href="">
-  <img height=65 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=draconnato&repo=book-club-scrape&theme=gruvbox" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=draconnato&repo=book-club-scrape&theme=gruvbox" />
+</a>
+<br>
+<br>
+<a href="">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=draconnato&repo=lol-tracker&theme=gruvbox" />
 </a>
 <a href="">
-  <img height=65 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=draconnato&repo=lol-tracker&theme=gruvbox" />
-</a>
-<a href="">
-  <img height=65 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=draconnato&repo=demo-data-eng&theme=gruvbox" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=draconnato&repo=demo-data-eng&theme=gruvbox" />
 </a>
