@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draconnato&hide_progress=true&theme=gruvbox" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draconnato&hide_progress=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=draconnato&hide=contribs,stars&show_icons=true&rank_icon=github&theme=gruvbox&custom_title=GitHub%20progress" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=draconnato&hide=contribs,stars&show_icons=true&rank_icon=github&theme=gruvbox&custom_title=GitHub%20progress" />
 </a>
