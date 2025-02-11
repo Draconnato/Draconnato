@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=draconnato&hide_progress=true&theme=gruvbox)
+![GitHub_progress](https://github-readme-stats.vercel.app/api?username=draconnato&hide=contribs,stars&show_icons=true&rank_icon=github&theme=gruvbox&custom_title=GitHub%20progress)
