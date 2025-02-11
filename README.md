@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=draconnato&hide_progress=true&theme=gruvbox)
 ![GitHub_progress](https://github-readme-stats.vercel.app/api?username=draconnato&hide=contribs,stars&show_icons=true&rank_icon=github&theme=gruvbox&custom_title=GitHub%20progress)
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draconnato&hide_progress=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=draconnato&hide=contribs,stars&show_icons=true&rank_icon=github&theme=gruvbox&custom_title=GitHub%20progress" />
+</a>
