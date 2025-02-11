@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 </a>
 <br>
 <br>
-<br>
 <a href="">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=draconnato&repo=lol-tracker&theme=gruvbox" />
 </a>
