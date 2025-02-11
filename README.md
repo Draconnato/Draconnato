@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 <a href="">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=draconnato&repo=book-club-scrape&theme=gruvbox" />
 </a>
-
 <br>
-
+<br>
 <a href="">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=draconnato&repo=lol-tracker&theme=gruvbox" />
 </a>
